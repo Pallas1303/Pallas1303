@@ -1,6 +1,6 @@
 ### Olá 👋
 
-Eu sou Pallas da Silva Guedes, tenho 17 anos atualmente moro no Brasil. Eu estou cursando ensino médio na escola "E.E. Professor Allyrio de Figueiredo Brasil" e também na mesma escola estou cursando curso técnico em "Desenvolvimento de Sistemas" com data de finalização no ano de 2025.
+Eu sou Pallas/Edson da Silva Guedes, tenho 17 anos atualmente moro no Brasil. Eu estou cursando ensino médio na escola "E.E. Professor Allyrio de Figueiredo Brasil" e também na mesma escola estou cursando curso técnico em "Desenvolvimento de Sistemas" com data de finalização no ano de 2025.
 1. Pronomes: Ela/Dela (Feminino).
 2. Sistema que uso: Debian 12 - GNOME.
 3. Idioma: Atualmente só sei minha linguagem nativa (Portúgues Brasileiro)
